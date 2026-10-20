@@ -1,0 +1,24 @@
+.stats-section {
+  padding: 3.25rem 0;
+  background: var(--brand-blue);
+  color: #fff;
+}
+
+.stat-item {
+  padding: 0.75rem 1rem;
+}
+
+.stat-item .numscroller {
+  color: #fff;
+  font-size: clamp(2.25rem, 4vw, 3.25rem);
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+.stat-item p {
+  margin: 0.65rem 0 0;
+  color: rgb(255 255 255 / 82%);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
